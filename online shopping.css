@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.navbar{
+	background-color: #ffff33;
+	color: black;
+	padding: 20px;
+}
+.banner{
+	margin-top: 70px;
+}
+.car{
+	font-size: 25px;
+}
+.men{
+	font-size: 25px;
+}
+.footer{
+	background-color: #e0e0e0;
+	padding-top: 20px;
+}
+.silk{
+	margin-top: 80px;
+}
